@@ -1,0 +1,10 @@
+form {
+  max-width: 600px;
+  margin: 2rem auto;
+  display: flex;
+  flex-direction: column;
+}
+form input, form textarea, form select, form button {
+  margin-bottom: 1rem;
+  padding: 10px;
+}
